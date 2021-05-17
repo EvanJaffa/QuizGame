@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login-Register_Card-Game_Millionaire</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="register">Register</string>
+    <string name="username">Email Address</string>
+    <string name="password">Password</string>
+    <string name="fName">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="dob">Date of Birth (MM/DD/YYYY)</string>
+    <string name="email">Email Address</string>
+    <string name="register_link">Register a new account</string>
+    <string name="welcome">Welcome</string>
+    <string name="title">The JaffaE1 Game</string>
+</resources>
